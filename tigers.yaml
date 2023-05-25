@@ -10,4 +10,8 @@ members:
 - Donald
 - George
 - Tyler
+<<<<<<< HEAD
 - Kim
+=======
+- Park
+>>>>>>> conflict
